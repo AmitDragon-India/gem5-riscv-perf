@@ -1,0 +1,26 @@
+# gem5 simulator — too large to push (clone separately)
+gem5/
+
+# Compiled RISC-V binaries
+workloads/matmul
+workloads/memcopy
+workloads/conv_layer
+
+# Python virtual environment
+gem5-perf-env/
+
+# gem5 per-experiment output folders (large, reproducible)
+# but keep summary CSVs
+results/*/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
