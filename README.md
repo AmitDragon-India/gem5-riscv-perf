@@ -163,4 +163,5 @@ python scripts/plot_contention.py
 
 ## Author
 Amit Chaudhari — M.Tech Electrical Engineering, IIT Bombay (2025)
+Independent project — May 2026
 [LinkedIn](https://linkedin.com/in/Amit-chaudhari) | [GitHub](https://github.com/AmitDragon-India)
