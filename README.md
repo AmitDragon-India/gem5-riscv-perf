@@ -162,6 +162,11 @@ python scripts/plot_contention.py
 - **OS:** Ubuntu 24.04 (WSL2)
 
 ## Author
-Amit Chaudhari — M.Tech Electrical Engineering, IIT Bombay (2025)
-Independent project — May 2026
+
+Amit Chaudhari — M.Tech Electrical Engineering, IIT Bombay (2025)<br>
+Independent Research Project, May 2026<br>
 [LinkedIn](https://linkedin.com/in/Amit-chaudhari) | [GitHub](https://github.com/AmitDragon-India)
+
+## License
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.<br>
+gem5 is licensed separately under a BSD-style license. See [gem5.org](https://www.gem5.org) for details.
